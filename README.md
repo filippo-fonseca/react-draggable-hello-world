@@ -1,2 +1,3 @@
 # react-draggable-hello-world
-Created with CodeSandbox
+
+🚙 Hello World project with `react-draggable`.
